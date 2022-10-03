@@ -174,7 +174,7 @@ header {
 
 #testimonials {
     width: 80%;
-    height: 100vh;
+    height: 100%;
     margin: auto;
     margin-top: 3rem;
 }
@@ -244,3 +244,63 @@ header {
     background-position: center;
    
 }
+
+/* Fine testimonials  */
+
+#benefits {
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    background-color: #9593e6;
+    margin-top: 4rem;
+    padding: 0.5rem;
+}
+
+.title {
+  
+    text-align: center;
+    font-size: 2.5rem;
+    color: white;
+    width: 80%;
+    margin: auto;
+    padding-top: 3rem;
+}
+
+
+.box {
+    width: 80%;
+    height: 100%;
+    background-color: white;
+    border-radius: 3rem;
+    margin: 3rem auto;   
+    padding: 1.5rem 0rem;
+}
+
+.box h2{
+    margin-left: 3rem;
+    font-size: 2.5rem;
+    color: #9593e6;
+}
+
+.box p {
+    text-align: left;
+   width: 80%;
+    margin-top: 2rem;
+    margin-left: 3rem;
+    
+    
+}
+
+
+.more {
+    border-radius: 1rem;
+    background-color: #9593e6;
+    padding: 0.9rem;
+    display: flex;
+    width: 50%;
+    margin-left: 3rem;
+    justify-content: center;
+    color: white;
+}
+
+/* fine parte box */
