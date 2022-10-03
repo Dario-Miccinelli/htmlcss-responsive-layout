@@ -304,3 +304,65 @@ header {
 }
 
 /* fine parte box */
+
+#Aboutus {
+    width: 80%;
+    margin: auto;
+    height: 100%;
+    margin-top: 2rem;
+    
+}
+
+#Aboutus h2 {
+    font-size: 2.5rem;
+    color: #9593e6;
+}
+
+#Aboutus p {
+    text-align: left;
+    line-height: 2rem;
+    margin-top: 1rem;
+    
+}
+
+.bckgrnd {
+    width: 250px;
+    height: 250px;
+    background-image: url(../img/about.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 50%;
+    background-position: center;
+
+}
+
+.quotation i{
+    position: relative;
+    color: #9593e6;
+    font-size: 4.5rem;
+    top: -1rem;
+    left: 11rem;
+}
+
+.quote {
+    padding: 1.3rem;
+}
+
+.linkedin {
+    background-color: #9593e6;
+    padding: 0.7rem;
+    margin-top: 1rem;
+    border-radius: 2rem ;
+    margin-left: 1rem;
+    display: flex;
+    width: 60%;
+    color: white;
+    justify-content: center;
+    font-size: 1.2rem;
+}
+
+.fa-linkedin {
+    margin-right: 0.5rem;
+}
+
+/* Fine parte about us  */
