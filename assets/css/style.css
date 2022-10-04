@@ -456,7 +456,7 @@ footer a {
 }
 
 /* media laptop 1024 */
-@media screen and (min-width: 1240px) and (max-width: 1605px) {
+@media screen and (min-width: 1240px) {
   #about .container {
     display: flex;
   }
@@ -535,3 +535,17 @@ footer a {
     display: none;
   }
 }
+
+
+/* prove  */
+
+@media screen and (min-width: 1605px) {
+  #col3 {
+    height: 55%;
+  }
+
+  .linkedin {
+    width: 30%;
+  }
+ 
+  }
